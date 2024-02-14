@@ -47,6 +47,15 @@ function App() {
             answer_d: 'useRequest()',
             correct_answer: 'c',
         },
+		{
+            id: 4,
+            question: 'Which of the following is used in React.js to increase performance?',
+            answer_a: 'Virtual DOM',
+            answer_b: 'Original DOM',
+            answer_c: 'Both A and B',
+            answer_d: 'None of the Above',
+            correct_answer: 'a',
+        },
     ];
 
     const initialState = {
